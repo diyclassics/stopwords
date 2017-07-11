@@ -4,4 +4,4 @@ Slides for this talk available here:
 [http://bit.ly/cltk-stopwords-slides](http://bit.ly/cltk-stopwords-slides)
 
 More info about CLTK at:
-[cltk.org](cltk.org]
+[cltk.org](cltk.org)
