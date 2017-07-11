@@ -1,4 +1,4 @@
-Code used for results presented in the talk "Creating Stoplists for Historical Languages with the Classical Language Toolkit" at »Global Philology: Big Textual Data« at Universität Leipzig, July 7, 2017.
+Code used for results presented in the talk "Creating Stoplists for Historical Languages with the Classical Language Toolkit" at »Global Philology: Big Textual Data« at Universität Leipzig, July 7, 2017. Run on Python 3.6.1.
 
 Slides for this talk available here:
 [http://bit.ly/cltk-stopwords-slides](http://bit.ly/cltk-stopwords-slides)
